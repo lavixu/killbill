@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  owed_user_id: 1
+  owee_user_id: 1
+  event_id: 1
+  amount_to_settle: 9.99
+
+two:
+  owed_user_id: 1
+  owee_user_id: 1
+  event_id: 1
+  amount_to_settle: 9.99
